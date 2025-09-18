@@ -85,8 +85,8 @@
 <hr>
 
 ## 🌟 Fun Fact:
-📌 I love creating user-friendly and visually appealing interfaces, and I'm always exploring new design trends to make my projects shine! ✨
 
+📌 I love creating user-friendly and visually appealing interfaces, and I'm always exploring new design trends to make my projects shine! ✨
 <hr>
 <p align="center">
   ✨ Thank you for visiting my profile! Feel free to connect and collaborate. Have a wonderful day! ✨
