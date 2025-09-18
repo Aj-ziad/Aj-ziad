@@ -67,25 +67,16 @@
   
 | Most Used Languages | GitHub Stats |
 |:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadajdour&layout=compact&theme=dark&hide_border=true) | ![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadajdour&show_icons=true&theme=dark&hide_border=true) |
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-ziad&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=Aj-ziad&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false) |
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadajdour&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Aj-ziad&theme=chartreuse-dark&hide_border=false)
 
 </div>
 
----
-
-<div align="center">
-
-**Something went wrong! File an issue at https://tiny.one/readme-stats**
-
-*API rate limit already exceeded for user ID 95542596.*
-
-</div>
 
 ---
 <hr>
