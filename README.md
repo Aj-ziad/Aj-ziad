@@ -1,8 +1,14 @@
 # Hello! this is Ziad AJDOUR 💖
 
-## ✨ A Passionate Full-Stack Developer from Morocco 🇲🇦✨
+# ⴰⵣⵓⵍ! ⴰⴷ ⴷ ⵣⵢⴰⴷ ⴰⵊⴷⵓⵔ 💖
 
+<p align="center">
+  <strong>✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</strong>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=ff69b4&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
 ### 🔹 About Me:
 - 🎓 I'm a digital development student at the Institute of Applied Technology, Ait Melloul.
@@ -53,9 +59,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadajdour&theme=dark&hide_border=true)
 
 </div>
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Profile views" />
-</p>
 
 ---
 
