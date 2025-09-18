@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
-
+<hr>
 
 ### 🔹 About Me:
 - 🎓 I'm a digital development student at the Institute of Applied Technology, Ait Melloul.
