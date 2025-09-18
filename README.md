@@ -1,6 +1,8 @@
-# Hello! this is Ziad AJDOUR 💖
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+this+is+Ziad+AJDOUR+%F0%9F%92%96;%E2%B4%B0%E2%B5%A3%E2%B5%93%E2%B5%8D!+%E2%B4%B0%E2%B4%B7+%E2%B4%B7+%E2%B5%A3%E2%B5%A2%E2%B4%B0%E2%B4%B7+%E2%B4%B0%E2%B5%8A%E2%B4%B7%E2%B5%93%E2%B5%94+%F0%9F%92%96" alt="Typing SVG" />
+</div>
 
-# ⴰⵣⵓⵍ! ⴰⴷ ⴷ ⵣⵢⴰⴷ ⴰⵊⴷⵓⵔ 💖
+<hr>
 
 <p align="center">
   <strong>✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</strong>
