@@ -7,7 +7,7 @@
 
 <!-- Subtitle with larger font -->
 <p align="center">
-  <strong><font size="22">✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</font></strong>
+  <strong><font size="2">✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</font></strong>
 </p>
 
 <p align="center">
