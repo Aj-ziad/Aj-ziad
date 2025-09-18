@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=100&lines=Hello!+this+is+Ziad+AJDOUR+%F0%9F%9A%80;%E2%B4%B0%E2%B5%A3%E2%B5%93%E2%B5%8D!+%E2%B4%B0%E2%B4%B7+%E2%B4%B7+%E2%B5%A3%E2%B5%A2%E2%B4%B0%E2%B4%B7+%E2%B4%B0%E2%B5%8A%E2%B4%B7%E2%B5%93%E2%B5%94+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- Typing effect with larger font -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=45&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=850&lines=Hello!+This+is+Ziad+AJDOUR+%F0%9F%9A%80;🚀+Passionate+FullStack+Developer+from+Morocco+🇲🇦" alt="Typing SVG" />
 </div>
 
 <hr>
 
+<!-- Subtitle with larger font -->
 <p align="center">
-  <strong><font size="5">✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</font></strong>
+  <strong><font size="6">✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</font></strong>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
+
 
 ### 🔹 About Me:
 - 🎓 I'm a digital development student at the Institute of Applied Technology, Ait Melloul.
