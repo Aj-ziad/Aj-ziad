@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+this+is+Ziad+AJDOUR+%F0%9F%92%96;%E2%B4%B0%E2%B5%A3%E2%B5%93%E2%B5%8D!+%E2%B4%B0%E2%B4%B7+%E2%B4%B7+%E2%B5%A3%E2%B5%A2%E2%B4%B0%E2%B4%B7+%E2%B4%B0%E2%B5%8A%E2%B4%B7%E2%B5%93%E2%B5%94+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=800&lines=Hello!+this+is+Ziad+AJDOUR+%F0%9F%9A%80;%E2%B4%B0%E2%B5%A3%E2%B5%93%E2%B5%8D!+%E2%B4%B0%E2%B4%B7+%E2%B4%B7+%E2%B5%A3%E2%B5%A2%E2%B4%B0%E2%B4%B7+%E2%B4%B0%E2%B5%8A%E2%B4%B7%E2%B5%93%E2%B5%94+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=ff69b4&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
 ### 🔹 About Me:
