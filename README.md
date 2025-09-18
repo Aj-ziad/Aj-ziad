@@ -22,6 +22,8 @@
 - 📍 Based in Agadir, Morocco.
 - 🎯 Open to exciting projects and collaborations.
 
+  <hr>
+
 ### 🔹 Connect with Me:
 
 <p align="center">
@@ -32,6 +34,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<hr>
 
 ## 🔧 Languages & Tools:
 
@@ -48,6 +52,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+<hr>
 
 ## 📊 GitHub Stats:
 
@@ -76,5 +82,12 @@
 </div>
 
 ---
+<hr>
 
 ## 🌟 Fun Fact:
+📌 I love creating user-friendly and visually appealing interfaces, and I'm always exploring new design trends to make my projects shine! ✨
+
+<hr>
+
+✨ Thank you for visiting my profile! Feel free to connect and collaborate. Have a wonderful day! ✨
+
