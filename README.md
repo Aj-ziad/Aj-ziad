@@ -21,6 +21,10 @@
 - ❤️ Passionate about web development and constantly learning new things!
 - 📍 Based in Agadir, Morocco.
 - 🎯 Open to exciting projects and collaborations.
+- <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
   <hr>
 
