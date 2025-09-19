@@ -8,11 +8,14 @@
 <!-- Subtitle with larger font -->
 <p align="center">
   <strong><font size="6">✨ A Passionate FullStack Developer from Morocco 🇲🇦 ✨</font></strong>
+  
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadajdour&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
+
+
 <hr>
 
 ### 🔹 About Me:
@@ -21,7 +24,7 @@
 - ❤️ Passionate about web development and constantly learning new things!
 - 📍 Based in Agadir, Morocco.
 - 🎯 Open to exciting projects and collaborations.
-- <div align="center">
+ <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
