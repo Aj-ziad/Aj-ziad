@@ -19,7 +19,7 @@
 <hr>
 
 ### 🔹 About Me:
-- 🎓 I'm a digital development student at the Institute of Applied Technology, Ait Melloul.
+- 🎓 I'm a full stack developer
 - 💻 Passionate about web development and constantly learning new things!
 - ❤️ Passionate about web development and constantly learning new things!
 - 📍 Based in Agadir, Morocco.
